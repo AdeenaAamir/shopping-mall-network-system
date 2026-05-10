@@ -17,9 +17,3 @@ Shopping Mall Network System is a networking project designed in Cisco Packet Tr
 - Packet Tracer project file (.pkt)
 - Network diagrams
 - Documentation
-
-## Run Locally
-Open the `.pkt` file in Cisco Packet Tracer to view the network topology and test connectivity.
-
-## Screenshots
-Add screenshots of the network topology and connectivity tests here.
